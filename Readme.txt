@@ -1,4 +1,4 @@
-Instrucciones para instalar y ejecutar
+Instrucciones para instalar y ejecutar la aplicación
 
 El proyecto esta hecho el Backend en Node Js, la base en Mongo en DB y Front-End en Boostrap 4
 
